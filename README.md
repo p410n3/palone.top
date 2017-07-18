@@ -1,6 +1,6 @@
 # palone.top
 
-My personal Website found at (who woud have thought) [https://palone.top](https://palone.top)
+My personal Website found at (who would have thought) [https://palone.top](https://palone.top)
 
 The website has CSS animations so check it out :)
 
